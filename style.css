@@ -65,6 +65,9 @@ nav a {
     object-fit: cover; 
   }
 
-
+#image1
+{ width: 20px;
+    height: 20px;
+    object-fit: cover; }
 #logo {width: 30%;}
 
